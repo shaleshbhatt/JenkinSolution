@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2NrXlTXBPvFtJwEwXwk4vaAIc5MlONpRYX3Et5RDlieJQ3dEmtv4pNLgmC9DyECm/BI4kQtuBNklWDtOK/ZWg==",
+  "success": true,
+  "projectFilePath": "C:\\Jenkin\\AB.Core.Webapp\\AB.Core.Webapp\\AB.Core.Webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shaleshbhatt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
